@@ -57,8 +57,8 @@ jobs:
         echo "修复api.json中的相对路径..."
         if [ -f "TVBoxOSC/tvbox/api.json" ]; then
           # 获取仓库信息
-          REPO_OWNER="leiyou-li"
-          REPO_NAME="xiaosaautomatic"
+          REPO_OWNER="YLEDE"
+          REPO_NAME="xiaosa"
           BRANCH="main"
           BASE_URL="https://raw.githubusercontent.com/$REPO_OWNER/$REPO_NAME/refs/heads/$BRANCH/TVBoxOSC/tvbox"
           
