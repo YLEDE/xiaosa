@@ -628,7 +628,7 @@
                 "ratio": 1.433
             },
             "ext": {
-                "json": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/json/哔哩视频.json",
+                "json": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/json/哔哩视频.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             }
         },
@@ -675,7 +675,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/json/xbky.json"
+            "ext": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/json/xbky.json"
         },
         {
             "key": "玩偶哥哥",
@@ -686,7 +686,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/json/wogg.json"
+            "ext": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/json/wogg.json"
         },
         {
             "key": "木偶",
@@ -697,7 +697,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/json/mogg.json"
+            "ext": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/json/mogg.json"
         },
         {
             "key": "蜡笔",
@@ -708,7 +708,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/json/lb.json"
+            "ext": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/json/lb.json"
         },
         {
             "key": "至臻",
@@ -719,7 +719,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/json/zz.json"
+            "ext": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/json/zz.json"
         },
         {
             "key": "多多",
@@ -730,7 +730,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/json/yyds.json"
+            "ext": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/json/yyds.json"
         },
         {
             "key": "欧哥",
@@ -741,7 +741,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/json/og.json"
+            "ext": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/json/og.json"
         },
         {
             "key": "二小",
@@ -752,7 +752,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/json/ex.json"
+            "ext": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/json/ex.json"
         },
         {
             "key": "虎斑",
@@ -763,7 +763,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/json/hb.json"
+            "ext": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/json/hb.json"
         },
         {
             "key": "雷鲸",
@@ -778,7 +778,7 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/json/lj.json"
+            "ext": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/json/lj.json"
         },
         {
             "key": "海绵",
@@ -793,7 +793,7 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/json/hm.json"
+            "ext": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/json/hm.json"
         },
         {
             "key": "夸父",
@@ -808,7 +808,7 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/json/kf.json"
+            "ext": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/json/kf.json"
         },
         {
             "key": "趣盘",
@@ -980,7 +980,7 @@
             "key": "星芽短剧",
             "name": "星芽｜短剧",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/py/星芽短剧.py",
+            "api": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/py/星芽短剧.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -990,7 +990,7 @@
             "key": "甜圈短剧",
             "name": "甜圈｜短剧",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/py/甜圈短剧.py",
+            "api": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/py/甜圈短剧.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -1000,7 +1000,7 @@
             "key": "锦鲤短剧",
             "name": "锦鲤｜短剧",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/py/锦鲤短剧.py",
+            "api": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/py/锦鲤短剧.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -1010,7 +1010,7 @@
             "key": "剧王短剧",
             "name": "剧王｜短剧",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/py/剧王短剧.py",
+            "api": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/py/剧王短剧.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -1021,7 +1021,7 @@
             "name": "番茄｜短剧",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/XBPQ/番茄短剧.json"
+            "ext": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/XBPQ/番茄短剧.json"
         },
         {
             "key": "剧屋短剧",
@@ -1031,7 +1031,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/XYQHiker/短剧屋.json"
+            "ext": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/XYQHiker/短剧屋.json"
         },
         {
             "key": "天翼影视",
@@ -1053,7 +1053,7 @@
             "key": "猎手影视",
             "name": "猎手｜影视",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/py/猎手影视.py",
+            "api": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/py/猎手影视.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -1150,7 +1150,7 @@
             "name": "采集｜合集",
             "type": 3,
             "api": "https://gitee.com/zxmoyun/test/raw/master/mjs/drpy2.min.js",
-            "ext": "https://gitee.com/zxmoyun/test/raw/master/mjs/采集之王.js?type=url&params=.https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/json/采集静态.json$1$1"
+            "ext": "https://gitee.com/zxmoyun/test/raw/master/mjs/采集之王.js?type=url&params=.https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/json/采集静态.json$1$1"
         },
         {
             "key": "爱看机器人",
@@ -1166,42 +1166,42 @@
             "name": "明星｜影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/XBPQ/明星影视.json"
+            "ext": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/XBPQ/明星影视.json"
         },
         {
             "key": "麦田影视",
             "name": "麦田｜影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/XBPQ/麦田影视.json"
+            "ext": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/XBPQ/麦田影视.json"
         },
         {
             "key": "面包影视",
             "name": "面包｜影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/XBPQ/面包影视.json"
+            "ext": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/XBPQ/面包影视.json"
         },
         {
             "key": "永乐影视",
             "name": "永乐｜影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/XBPQ/永乐影视.json"
+            "ext": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/XBPQ/永乐影视.json"
         },
         {
             "key": "雪糕影视",
             "name": "雪糕｜影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/XBPQ/雪糕影视.json"
+            "ext": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/XBPQ/雪糕影视.json"
         },
         {
             "key": "三九影视",
             "name": "三九｜影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/XBPQ/三九影视.json"
+            "ext": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/XBPQ/三九影视.json"
         },
         {
             "key": "剧圈圈",
@@ -1227,7 +1227,7 @@
             "style": {
                 "type": "list"
             },
-            "ext": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/XBPQ/哆啦新番社.json"
+            "ext": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/XBPQ/哆啦新番社.json"
         },
         {
             "key": "56动漫",
@@ -1450,14 +1450,14 @@
             "name": "樱花｜动漫",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/XBPQ/樱花动漫.json"
+            "ext": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/XBPQ/樱花动漫.json"
         },
         {
             "key": "巴士动漫",
             "name": "巴士｜动漫",
             "type": 3,
             "api": "csp_XYQHiker",
-            "ext": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/XYQHiker/巴士动漫.json"
+            "ext": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/XYQHiker/巴士动漫.json"
         },
         {
             "key": "好看动漫",
@@ -1594,7 +1594,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/XYQHiker/电影港.json"
+            "ext": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/XYQHiker/电影港.json"
         },
         {
             "key": "狐狸君",
@@ -1605,7 +1605,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/XBPQ/狐狸君.json"
+            "ext": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/XBPQ/狐狸君.json"
         },
         {
             "key": "Mp4电影",
@@ -1646,7 +1646,7 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/json/quarkShare.json"
+            "ext": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/json/quarkShare.json"
         },
         {
             "key": "UC",
@@ -1660,7 +1660,7 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/json/ucShare.json"
+            "ext": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/json/ucShare.json"
         },
         {
             "key": "百度云盘",
@@ -1686,7 +1686,7 @@
             "style": {
                 "type": "list"
             },
-            "ext": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/json/alist.json"
+            "ext": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/json/alist.json"
         },
         {
             "key": "88看球",
@@ -1702,13 +1702,13 @@
             "key": "网络直播",
             "name": "网络｜直播",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/py/网络直播.py"
+            "api": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/py/网络直播.py"
         },
         {
             "key": "哔哩直播",
             "name": "哔哩｜直播",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/py/哔哩直播.py"
+            "api": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/py/哔哩直播.py"
         },
         {
             "key": "哔哩合集",
@@ -1724,7 +1724,7 @@
                 "ratio": 1.433
             },
             "ext": {
-                "json": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/json/哔哩合集.json",
+                "json": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/json/哔哩合集.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             }
         },
@@ -1738,7 +1738,7 @@
             "filterable": 0,
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/json/哔哩哔哩演唱会.json"
+                "json": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/json/哔哩哔哩演唱会.json"
             },
             "style": {
                 "type": "rect",
@@ -1755,7 +1755,7 @@
             "filterable": 0,
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/json/哔哩哔哩听书.json"
+                "json": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/json/哔哩哔哩听书.json"
             },
             "style": {
                 "type": "rect",
@@ -1772,7 +1772,7 @@
             "filterable": 0,
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/json/哔哩哔哩相声.json"
+                "json": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/json/哔哩哔哩相声.json"
             },
             "style": {
                 "type": "rect",
@@ -1789,7 +1789,7 @@
             "filterable": 0,
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/json/哔哩哔哩小品.json"
+                "json": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/json/哔哩哔哩小品.json"
             },
             "style": {
                 "type": "rect",
@@ -1806,7 +1806,7 @@
             "filterable": 0,
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/json/哔哩哔哩戏曲.json"
+                "json": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/json/哔哩哔哩戏曲.json"
             },
             "style": {
                 "type": "rect",
@@ -1822,7 +1822,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": {
-                "json": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/json/少儿教育.json",
+                "json": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/json/少儿教育.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
@@ -1839,7 +1839,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": {
-                "json": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/json/小学课堂.json",
+                "json": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/json/小学课堂.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
@@ -1856,7 +1856,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": {
-                "json": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/json/初中课堂.json",
+                "json": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/json/初中课堂.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
@@ -1873,7 +1873,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": {
-                "json": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/json/高中课堂.json",
+                "json": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/json/高中课堂.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
@@ -1900,7 +1900,7 @@
             "name": "养生｜知识",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://raw.githubusercontent.com/leiyou-li/xiaosaautomatic/refs/heads/main/TVBoxOSC/tvbox/XBPQ/养生堂.json",
+            "ext": "https://raw.githubusercontent.com/YLEDE/xiaosa/refs/heads/main/TVBoxOSC/tvbox/XBPQ/养生堂.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
