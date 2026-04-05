@@ -47,6 +47,7 @@
 www.csgo.com
 www.gco.gov.qa
 yx.cf.cnae.top
+secure .mse.waseda.ac.jp
 yx.cloudflare-dualstack.19931110.xyz
 yx.cloudflare-dualstack.22336666.xyz
 yx.cloudflare-dualstack.byoip.top
