@@ -48,7 +48,6 @@ www.csgo.com
 yx.cf.cnae.top
 cdn.31514926.xyz
 cloudflare.lingyucat.com
-[2a09:bac1:31c0:8::3d0:2c]
 yx.cloudflare-dualstack.19931110.xyz
 yx.cloudflare-dualstack.22336666.xyz
 yx.cloudflare-dualstack.byoip.top
