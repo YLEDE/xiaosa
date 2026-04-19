@@ -45,3 +45,9 @@ cdn.31514926.xyz
 cf2.tencentapp.cn
 cloudflare.lingyucat.com
 yx.cloudflare-dualstack.byoip.top
+hk1.junkatz.com
+hk2.junkatz.com
+hk3.junkatz.com
+hk4.junkatz.com
+tw1.junkatz.com
+tw2.junkatz.com
