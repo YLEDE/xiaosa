@@ -37,7 +37,6 @@
 172.67.73.193:443
 172.67.79.93:443
 220.128.110.108:43
-203.69.248.40:10443
 icook.tw
 cf.0sm.com
 cdn.31514926.xyz
@@ -52,5 +51,4 @@ sg3.junkatz.com
 sg4.junkatz.com
 jp1.junkatz.com
 jp2.junkatz.com
-jp3.junkatz.com
 jp4.junkatz.com
