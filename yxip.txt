@@ -43,8 +43,6 @@
 172.67.73.193:443
 172.67.79.93:443
 192.131.142.161:46639
-219.76.13.166:443
-219.76.13.180:443
 220.128.110.108:43
 cf.0sm.com
 cdn.31514926.xyz
@@ -59,4 +57,3 @@ sg3.junkatz.com
 sg4.junkatz.com
 jp1.junkatz.com
 jp2.junkatz.com
-jp3.junkatz.com
