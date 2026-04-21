@@ -39,6 +39,7 @@
 172.67.79.93:443
 192.131.142.161:46639
 cf.0sm.com
+saas.sin.fan
 cdn.31514926.xyz
 cloudflare.lingyucat.com
 hk1.junkatz.com
