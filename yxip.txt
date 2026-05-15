@@ -70,6 +70,7 @@ jp1.junkatz.com
 jp2.junkatz.com
 jp3.junkatz.com
 jp4.junkatz.com
+zeas.top
 www.mfyx.cn
 saas.sin.fan
 101yaoye.com
@@ -78,7 +79,6 @@ cdn.2020111.xyz
 cf.tencentapp.cn
 777.ai7777777.xyz
 sub.danfeng.eu.org
-cloudflare.seeck.cn
 cf-cname.xingpingcn.top
 cloudflare.19931110.xyz
 cf.cloudflare.182682.xyz
