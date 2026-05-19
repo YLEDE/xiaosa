@@ -82,6 +82,7 @@ www.cdzxdz.com
 cdn.2020111.xyz
 asia.877774.xyz
 090.hhhhh.eu.org
+www.allianz.co.th
 cloudflare.182682.xyz
 cf-cname.xingpingcn.top
 cloudflare-ip.mofashi.ltd
