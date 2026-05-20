@@ -1,5 +1,4 @@
 3.1.116.161:8443
-8.209.231.3:443
 8.219.232.55:443
 8.219.155.125:443
 8.222.193.153:443
@@ -66,15 +65,14 @@ jp4.junkatz.com
 eii.at
 zeas.top
 cdn.7zz.cn
-shopify.com
 saas.sin.fan
+cf.877771.xyz
 www.cdzxdz.com
 cdn.2020111.xyz
 asia.877774.xyz
 090.hhhhh.eu.org
-www.allianz.co.th
-cloudflare.182682.xyz
+nrtcfdns.zone.id
+cf.cloudflare.182682.xyz
 cf-cname.xingpingcn.top
 cloudflare-ip.mofashi.ltd
-yx.cloudflare.22336666.xyz
 download.yunzhongzhuan.com
