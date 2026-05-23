@@ -60,12 +60,14 @@ jp4.junkatz.com
 eii.at
 zeas.top
 cdn.7zz.cn
+cf.zmdhc.com
 saas.sin.fan
 www.cdzxdz.com
 cdn.2020111.xyz
 asia.877774.xyz
 youxuan.cf.636949.xyz
 cloudflare.468123.xyz
+cloudflare.rainyfall.com
 cf.cloudflare.182682.xyz
 cf-cname.xingpingcn.top
 cloudflare-ip.mofashi.ltd
