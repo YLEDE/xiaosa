@@ -15,6 +15,7 @@
 35.72.81.216:443
 43.165.133.183:17628
 45.76.185.254:8443
+45.76.183.217:49292
 45.89.232.111:8443
 47.239.4.246:8443
 52.193.174.161:443
@@ -33,7 +34,6 @@
 69.63.223.42:443
 104.17.158.170:443
 108.162.198.43:443
-114.34.106.124:10443
 118.218.10.159:443
 120.55.183.176:443
 144.24.94.127:443
@@ -62,16 +62,14 @@ jp3.junkatz.com
 jp4.junkatz.com
 kr1.junkatz.com
 kr2.junkatz.com
-tw1.junkatz.com
 tw2.junkatz.com
 zeas.top
-cdn.7zz.cn
-saas.sin.fan
+shopify.com
 www.cdzxdz.com
-asia.877774.xyz
 cdn.9889888.xyz
+xn--b6gac.eu.org
+www.digitalocean.com
 youxuan.cf.636949.xyz
 cloudflare.468123.xyz
-cf-cname.xingpingcn.top
 cloudflare-ip.mofashi.ltd
 download.yunzhongzhuan.com
