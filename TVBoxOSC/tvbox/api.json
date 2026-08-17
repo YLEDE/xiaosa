@@ -21,7 +21,7 @@
             "indexs": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.597
+                "ratio": 1.618
             }
         },
         {
@@ -202,21 +202,6 @@
                 "url": "http://103.217.190.91:5566",
                 "dataKey": "hagYExMdMkeWfemK",
                 "dataIv": "hagYExMdMkeWfemK",
-                "init": "initV122",
-                "ua": "okhttp/3.10.0"
-            }
-        },
-        {
-            "key": "爱影",
-            "name": "爱影 • APP",
-            "type": 3,
-            "api": "csp_AppQi",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q26.txt",
-                "dataKey": "0UKM8jkasM8tdzgW",
-                "dataIv": "0UKM8jkasM8tdzgW",
                 "init": "initV122",
                 "ua": "okhttp/3.10.0"
             }
@@ -408,9 +393,7 @@
                 "site": [
                     "http://tvpanpan.site",
                     "http://feimo.fun",
-                    "http://xiaocgege.shop",
-                    "http://www.xiaocgege.shop",
-                    "https://www.xiaocge.fun"
+                    "https://www.mmpanpan.site"
                 ]
             },
             "timeout": 60
@@ -442,8 +425,9 @@
             "changeable": 1,
             "ext": {
                 "site": [
-                    "https://mihdr.top",
-                    "https://www.miqk.cc",
+                    "https://sp.zzzy.shop",
+                    "https://www.zhizhen8.click",
+                    "https://www.zhizhen1.top",
                     "https://www.mihdr.top"
                 ]
             },
@@ -497,11 +481,9 @@
             "changeable": 1,
             "ext": {
                 "site": [
-                    "https://www.2xiaopan.top",
-                    "https://2xiaopan.top",
-                    "https://www.erxiaozhan.top",
-                    "https://www.2xiaozhan.top",
-                    "https://wexwp.cc"
+                    "http://www.wexwp.cc",
+                    "https://www.2xiaopan.one",
+                    "https://www.wexwp.cc"
                 ]
             },
             "timeout": 60
@@ -1280,7 +1262,7 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.597
+                "ratio": 1.618
             }
         },
         {
@@ -1293,7 +1275,7 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.597
+                "ratio": 1.618
             }
         },
         {
@@ -1306,7 +1288,7 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.597
+                "ratio": 1.618
             }
         },
         {
@@ -1328,7 +1310,7 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.597
+                "ratio": 1.618
             }
         },
         {
@@ -1345,7 +1327,7 @@
             },
             "style": {
                 "type": "rect",
-                "ratio": 1.597
+                "ratio": 1.618
             }
         },
         {
@@ -1362,7 +1344,7 @@
             },
             "style": {
                 "type": "rect",
-                "ratio": 1.597
+                "ratio": 1.618
             }
         },
         {
@@ -1379,7 +1361,7 @@
             },
             "style": {
                 "type": "rect",
-                "ratio": 1.597
+                "ratio": 1.618
             }
         },
         {
@@ -1396,7 +1378,7 @@
             },
             "style": {
                 "type": "rect",
-                "ratio": 1.597
+                "ratio": 1.618
             }
         },
         {
@@ -1413,7 +1395,7 @@
             },
             "style": {
                 "type": "rect",
-                "ratio": 1.597
+                "ratio": 1.618
             }
         },
         {
@@ -1430,7 +1412,7 @@
             },
             "style": {
                 "type": "rect",
-                "ratio": 1.597
+                "ratio": 1.618
             }
         },
         {
@@ -1447,7 +1429,7 @@
             },
             "style": {
                 "type": "rect",
-                "ratio": 1.597
+                "ratio": 1.618
             }
         },
         {
@@ -1464,7 +1446,7 @@
             },
             "style": {
                 "type": "rect",
-                "ratio": 1.597
+                "ratio": 1.618
             }
         },
         {
@@ -1481,7 +1463,7 @@
             },
             "style": {
                 "type": "rect",
-                "ratio": 1.597
+                "ratio": 1.618
             }
         },
         {
@@ -1508,7 +1490,7 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.597
+                "ratio": 1.618
             }
         },
         {
