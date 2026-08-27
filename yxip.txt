@@ -44,8 +44,7 @@ jp1.junkatz.com
 kr1.junkatz.com
 us3.junkatz.com
 th2.junkatz.com
-my3.junkatz.com
-www.visa.cn
+ae2.junkatz.com
 shopify.com
 cmcc.vvvv.ee
 saas.sin.fan
@@ -54,7 +53,6 @@ hwb.ircf.space
 bp.hhhhh.eu.org
 cdn.9889888.xyz
 xn--b6gac.eu.org
-cfip.xxxxxxxx.tk
 yd.1.hhhhh.eu.org
 nrt.xxxxxxxx.nyc.mn
 www.digitalocean.com
