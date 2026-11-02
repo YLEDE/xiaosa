@@ -30,7 +30,7 @@ jobs:
         echo "开始下载文件..."
         
         # 下载文件
-        curl -L -o "data.zip" "https://github.com/qist/tvbox/archive/master.zip"
+        curl -L -o "data.zip" "https://www.四次元.com/%E5%8D%95%E7%BA%BF%E8%B7%AF.zip"
         
         # 检查下载是否成功
         if [ ! -f "data.zip" ]; then
